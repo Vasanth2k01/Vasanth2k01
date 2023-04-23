@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **Java, JavaScript, UI design, React.js, NodeJS, MySQL, Express.js**
+- 💬 Ask me about **Java, JavaScript, React.js, NodeJS, MySQL, Express.js, UI design**
 
 - 📫 How to reach me **vasanht2001@gmail.com**
 
