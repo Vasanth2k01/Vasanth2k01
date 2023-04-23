@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/vasanth2k01" target="blank"><img src="https://img.shields.io/twitter/follow/vasanth2k01?logo=twitter&style=for-the-badge" alt="vasanth2k01" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **Java, JavaScript, UI design, AngularJS(Beginner level)**
+- 💬 Ask me about **Java, JavaScript, UI design, React.js, NodeJS, MySQL, Express.js**
 
 - 📫 How to reach me **vasanht2001@gmail.com**
 
